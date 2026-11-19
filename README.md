@@ -5,7 +5,7 @@
 This is Emma's Item Piles mod, what more do you need to know?
 
 
-<img src="https://github.com/TLD-Mods/Modlist_Images/master/item-pile-mod-title.jpg" width="80%">
+<img src="https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/master/item-pile-mod-title.jpg" width="80%">
 
 
 ## 🙏 Special Thanks
